@@ -1,6 +1,6 @@
 {
   "name": "gitorgtest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A script to test permissions to github organization",
   "main": "index.js",
   "bin": {
