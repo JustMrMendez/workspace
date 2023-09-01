@@ -1,0 +1,23 @@
+{
+  "name": "gitorgtest",
+  "version": "0.0.1",
+  "description": "A script to test permissions to github organization",
+  "main": "index.js",
+  "bin": {
+    "gitorgtest": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmrmendez/gitorgtest.git"
+  },
+  "author": "Mr. Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmrmendez/gitorgtest/issues"
+  },
+  "homepage": "https://github.com/justmrmendez/gitorgtest#readme"
+}
